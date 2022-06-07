@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **tirthankar06chakraborty@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cHO1SAFs4FiGnjbmfeqB4EXQx5N8Qmgt/view?usp=sharing](https://drive.google.com/file/d/16dDQmsY5uDjn7L0vaB9egAztuzKvIrwd/view?usp=sharing)
+- 📄 Know about my experiences [Link to my resume](https://drive.google.com/file/d/1kXZTQEf2188LIWM6gkm7NZUnHfaRJEFp/view?usp=sharing)
+- - 📄  [find my cover letter](https://drive.google.com/file/d/1GjaGckJv8QEphuxfL6oo6-1HXdAvhm7g/view?usp=sharing)
 
 - ⚡ Fun fact **I am a consumer of sports & art**
 
