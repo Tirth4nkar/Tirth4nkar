@@ -10,9 +10,10 @@
 - 💬 Ask me about **data science**
 
 - 📫 How to reach me **tirthankar06chakraborty@gmail.com**
+- [Find me @ Linkedln](https://www.linkedin.com/in/tirthankarchakraborty1999/)
 
 - 📄 Know about my experiences [Link to my resume](https://drive.google.com/file/d/1kXZTQEf2188LIWM6gkm7NZUnHfaRJEFp/view?usp=sharing)
-- - 📄  [find my cover letter](https://drive.google.com/file/d/1GjaGckJv8QEphuxfL6oo6-1HXdAvhm7g/view?usp=sharing)
+- - 📄  [Find my cover letter](https://drive.google.com/file/d/1GjaGckJv8QEphuxfL6oo6-1HXdAvhm7g/view?usp=sharing)
 
 - ⚡ Fun fact **I am a consumer of sports & art**
 
