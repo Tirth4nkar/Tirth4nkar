@@ -5,15 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/tirth4nkar" target="blank"><img src="https://img.shields.io/twitter/follow/tirth4nkar?logo=twitter&style=for-the-badge" alt="tirth4nkar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tirth4nkar/Data-Science-Portfolio-Repository.git](https://github.com/Tirth4nkar/Data-Science-Portfolio-Repository.git)
+- 👨‍💻 All of my portfolio projects are available at --->  [My Projects and Contributions list](https://github.com/Tirth4nkar?tab=repositories)
 
-- 💬 Ask me about **data science**
+- 💬 Ask me about **data science**  , **machine learning** and **deep learning** 
 
 - 📫 How to reach me **tirthankar06chakraborty@gmail.com**
 - [Find me @ Linkedln](https://www.linkedin.com/in/tirthankarchakraborty1999/)
 
-- 📄 Know about my experiences [Link to my resume](https://drive.google.com/file/d/1kXZTQEf2188LIWM6gkm7NZUnHfaRJEFp/view?usp=sharing)
-- - 📄  [Find my cover letter](https://drive.google.com/file/d/1GjaGckJv8QEphuxfL6oo6-1HXdAvhm7g/view?usp=sharing)
+- Know about my crazy side [Link to my twitter](https://twitter.com/Tirth4nkar)
+- - [Find my discord] --> tirth4nkar
+  - -- [Link to my threads] --> [threads](https://www.threads.net/@tirth4nkar) 
 
 - ⚡ Fun fact **I am a consumer of sports & art**
 
