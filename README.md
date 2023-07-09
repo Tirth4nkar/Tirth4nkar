@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tirthankar Chakraborty</h1>
-<h3 align="center">A passionate data enthusiast from India</h3>
+<h3 align="center">A passionate data enthusiast from India. Working as a data scientist and trying to make sense of life. The tech stack includes almost everything related to machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirth4nkar&label=Profile%20views&color=0e75b6&style=flat" alt="tirth4nkar" /> </p>
 
