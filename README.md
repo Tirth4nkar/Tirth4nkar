@@ -12,16 +12,15 @@
 - 📫 How to reach me **tirthankar06chakraborty@gmail.com**
 - [Find me @ Linkedln](https://www.linkedin.com/in/tirthankarchakraborty1999/)
 
-- Know about my crazy side [Link to my twitter](https://twitter.com/Tirth4nkar)
-- - [Find my discord] --> tirth4nkar
-  - -- [Link to my threads] --> [threads](https://www.threads.net/@tirth4nkar) 
-
 - ⚡ Fun fact **I am a consumer of sports & art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tirth4nkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirth4nkar" height="30" width="40" /></a>
 <a href="https://kaggle.com/t!rtha4nkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="t!rtha4nkar" height="30" width="40" /></a>
+
+  - - [Find my discord] --> tirth4nkar
+  - -- [Link to my threads] --> [threads](https://www.threads.net/@tirth4nkar) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
