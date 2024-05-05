@@ -4,15 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirth4nkar&label=Profile%20views&color=0e75b6&style=flat" alt="tirth4nkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tirth4nkar" target="blank"><img src="https://img.shields.io/twitter/follow/tirth4nkar?logo=twitter&style=for-the-badge" alt="tirth4nkar" /></a> </p>
-
-- 👨‍💻 All of my portfolio projects are available at --->  [My Projects and Contributions list](https://github.com/Tirth4nkar?tab=repositories)
-
 - 💬 Ask me about **data science**  , **machine learning** and **deep learning** 
 
 - 📫 How to reach me **tirthankar06chakraborty@gmail.com**
 - [Find me @ Linkedln](https://www.linkedin.com/in/tirthankarchakraborty1999/)
 
-- ⚡ Fun fact **I am a consumer of sports & art**
+- ⚡ Fun fact **I am a consumer of sports & cinema, my definition of fun is watching football on weekends and analyzing why my team lost the game or binge-watching Netflix**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
