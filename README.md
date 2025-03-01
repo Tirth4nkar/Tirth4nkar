@@ -7,8 +7,9 @@
 - 💬 Ask me about data science, machine learning and deep learning. Domain-specific expertise in NLP and Transformers.
 
 - 📫 Reach out to me at
--- Email: **tirthankar06chakraborty@gmail.com**
+-- Email: **tirthnakar.chakraborty@gmail.com** or **chakrabortytirthankar19@gmail.com**
 -- [Find me @ Linkedln](https://www.linkedin.com/in/tirthankarchakraborty1999/)
+-- [Find me @ Kaggle](https://www.kaggle.com/tirth4nkar)
 
 - ⚡ Fun fact **I am a consumer of sports & cinema, my definition of fun is watching football on weekends and analyzing why my team lost the game or binge-watching Netflix**
 
